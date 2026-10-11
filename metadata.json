@@ -1,0 +1,6 @@
+{
+  "name": "Urban Heat — Climate Storytelling & Decision System",
+  "description": "From Satellite Heat Maps to Accountable Cooling Decisions: an interactive, research-driven geospatial climate storytelling and decision system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
